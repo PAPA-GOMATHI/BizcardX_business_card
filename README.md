@@ -12,7 +12,7 @@ IMPORTING PACKAGES FOR THIS PROJECT -
 ----------------------------------------------
 1. Pandas
 2. Streamlit
-3. SQLlite
+3. SQLite
 4. EasyOCR
 5. Pillow
 
